@@ -1,0 +1,8 @@
+isis:
+  viewer:
+    wicket:
+      prompt-style: inline
+      dialog-mode-for-menu: sidebar
+
+      max-title-length-in-standalone-tables: 10
+      max-title-length-in-parented-tables: 10

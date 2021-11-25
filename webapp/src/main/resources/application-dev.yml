@@ -1,0 +1,4 @@
+isis:
+  testing:
+    fixtures:
+      initial-script: register.webapp.application.fixture.scenarios.RegisterAppDemo
