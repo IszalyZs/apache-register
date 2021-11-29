@@ -31,7 +31,7 @@ public class Employee_IntegTest extends SimpleModuleIntegTestAbstract {
 
 
     @Nested
-    public static class name extends Employee_IntegTest {
+    public static class employee extends Employee_IntegTest {
 
         @Test
         public void accessible() {
@@ -74,7 +74,7 @@ public class Employee_IntegTest extends SimpleModuleIntegTestAbstract {
 
 
     @Nested
-    public static class updateName extends Employee_IntegTest {
+    public static class updateAndValidation extends Employee_IntegTest {
 
 
         @Test

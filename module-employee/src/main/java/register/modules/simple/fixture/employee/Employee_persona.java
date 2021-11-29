@@ -53,7 +53,6 @@ public enum Employee_persona
 
     public static class PersistAll
             extends PersonaEnumPersistAll<Employee_persona, Employee> {
-
         public PersistAll() {
             super(Employee_persona.class);
         }
